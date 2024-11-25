@@ -16,4 +16,12 @@ Here we can see all data saved in a catalog in Databricks.
 ![Sample data](https://github.com/user-attachments/assets/306934c8-f6f0-4c92-b27a-e5b5f477aabd)
 
 
-  
+Step 3: Clean up the dataset by removing columns with only null values and any unnecessary columns. Add new measures for future analysis:
+
+1. Goal Difference: Calculated as scored goals minus goals conceded.
+2. Team Form: Calculated as the median points from the last five games.
+3. Points Column: Assigns points based on match results (win, loss, or draw).
+I also added an ID column to make it easier to work with the data in Power BI later.
+
+![Workspaces](https://github.com/user-attachments/assets/010a2ab6-a9bc-4577-8669-249631ebfb6a)
+
