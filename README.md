@@ -28,9 +28,11 @@ I also added an ID column to make it easier to work with the data in Power BI la
 Step 4: This is my Power BI dashboard. The first one provides an overview with some statistics about the season. The second one offers a more detailed analysis, allowing you to view information about how two teams perform against each other.
 
 Overview: 
-![Power bi - overview](https://github.com/user-attachments/assets/c4402403-8213-4445-838e-7798cb67ca78)
+![power bi - överblick](https://github.com/user-attachments/assets/04690a0f-31b7-44ed-aaf2-713c08146333)
+
 
 More individual: 
-![Power bi - dashboard individual](https://github.com/user-attachments/assets/5030b9bf-4df1-4a40-bc26-e38f122121f1)
+![power bi - individuell jämförelse](https://github.com/user-attachments/assets/0cc17e3f-a235-4c4a-b7ea-3f24ff0f0c4d)
+
 
 
