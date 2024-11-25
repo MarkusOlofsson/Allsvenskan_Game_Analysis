@@ -1,10 +1,9 @@
 # AllsvenskanGamePredictor
 ETL - project to analyze allsvenskan games
 
-Step 1: 
-  Create a webscraping method that retrieve data about the 3 last seasons in "Allsvenskan", with many different data about results and statistics from the games. I did it with my Jupyter notebook called "scraping.ipynb" and then i saved it as a csv file. 
+Step 1: Develop a web scraping method to collect data about the last three seasons of "Allsvenskan," including a wide range of information on match results and game statistics. I implemented this using a Jupyter Notebook named scraping.ipynb. After extracting the data, I saved it as a CSV file for further use.
 
-  ![image](https://github.com/user-attachments/assets/c7941705-ecbc-4d7f-b533-7dd63ca65adc)
+![image](https://github.com/user-attachments/assets/c7941705-ecbc-4d7f-b533-7dd63ca65adc)
 
 
   
