@@ -1,4 +1,4 @@
-# AllsvenskanGamePredictor
+# Allsvenskan_Game_Analysis
 ETL - project to analyze allsvenskan games
  
  
