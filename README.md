@@ -1,6 +1,6 @@
 # Allsvenskan_Game_Analysis
 
-In this project, I will show the tools I used step by step to first web scrape a large CSV file containing data from the last three seasons of Allsvenskan, transform it, and then visualize it to make interesting comparisons between different teams. By analyzing historical data, the goal is to draw valuable conclusions that could, for example, help with betting predictions. Here is an overview of the tools I will be using.
+In this project, I will show the tools I used step by step to first web scrape a CSV file containing data from the last three seasons of Allsvenskan, transform it, and then visualize it to make interesting comparisons between different teams. By analyzing historical data, the goal is to draw valuable conclusions that could, for example, help with betting predictions. Here is an overview of the tools I will be using.
 
 ![flow](https://github.com/user-attachments/assets/6492908f-32b1-4082-9bf7-5be2d22b5c9b)
 
