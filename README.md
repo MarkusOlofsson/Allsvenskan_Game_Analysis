@@ -1,5 +1,10 @@
 # Allsvenskan_Game_Analysis
 ETL - project to analyze allsvenskan games
+
+In this project, I will show the tools I used step by step to first web scrape a large CSV file, transform it, and then visualize it to make interesting comparisons between different teams! Here is an overview of what tools i will be using.
+
+![flow](https://github.com/user-attachments/assets/6492908f-32b1-4082-9bf7-5be2d22b5c9b)
+
  
  
  
