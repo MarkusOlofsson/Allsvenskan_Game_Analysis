@@ -8,7 +8,10 @@ In this project, I will show the tools I used step by step to first web scrape a
  
  
 Step 1: Develop a web scraping method to collect data about the last three seasons of "Allsvenskan," including a wide range of information on match results and game statistics. I implemented this using a Jupyter Notebook named scraping.ipynb. After extracting the data, I saved it as a CSV file for further use.
- 
+
+![image](https://github.com/user-attachments/assets/8080c7dc-11cc-4bf7-afe5-86be7e19bb4b)
+
+ Csv-file:
 ![image](https://github.com/user-attachments/assets/c7941705-ecbc-4d7f-b533-7dd63ca65adc)
  
  
